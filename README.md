@@ -14,6 +14,8 @@ In conclusion, we see there are many factors which influence womenâ€™s and menâ€
 
 
 
+
+
 speedating.Rmd - the final file we used for our analysis
 
 speedating.html - html rendering of study presenation
