@@ -1,9 +1,9 @@
 # Speed_Dating
 ### Behavioral analysis and preferences in men and women.
 
-~ Kaggle Speed_dating dataset
+#### Kaggle Speed_dating dataset
 
-
+Project by: Manda, Rosa, and Jamie
 
 In 2002-2004, there was data collected for 21 different speed-dating outings with different individuals. Data was collected about each persons’s income, religious background, career, favorite hobbies, race, and ratings on how each individual believes they are perceived by others.
 
